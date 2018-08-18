@@ -3,7 +3,7 @@ package pack1;
 public class Calculations {
 
 	int a, b, results;
-
+	
 	public Calculations(int a, int b) {
 		
 		this.a = a;
